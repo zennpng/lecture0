@@ -1,1 +1,1 @@
-# test
+# lecture0 contents
