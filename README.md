@@ -6,5 +6,5 @@ This app is able to:
 - Track the number of total TODOs  
 - Track the number of unchecked TODOs  
 
-### Vanilla JS version -> script.js  
-### React JS version -> index.js  
+#### Vanilla JS version -> script.js  
+#### React JS version -> index.js  
