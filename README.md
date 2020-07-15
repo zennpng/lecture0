@@ -8,3 +8,4 @@ This app is able to:
 
 #### Vanilla JS version -> script.js  
 #### React JS version -> index.js  
+#### React Native version -> App.js (limited functionality currently)
