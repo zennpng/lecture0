@@ -1,19 +1,8 @@
 import React from 'react';
 import { render } from 'react-dom';
+import Todo from './Todo'
 
 let id = 0   // for labelling the todos 
-
-const Todo = props => (
-  <li>
-    <input 
-    type="checkbox" 
-    checked={props.todo.checked}   // track checked state
-    onChange={props.onToggle}   // track toggle state 
-    />
-    <button onClick={props.onDelete}>delete</button>
-    <span>{props.todo.text}</span>
-  </li>
-)
 
 class App extends React.Component {
   constructor() {
